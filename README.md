@@ -2,12 +2,12 @@
 <p>The GooseCam is a scientific optical device to objectively measure gossebumps in humans (e.g. emotional goosebumps) </p>
 
 <H2>Goosebumps</H2>
-The GooseCam is basicaly just a camera that records an specific area of skin. While the camera is recording, LEDs illuminate the area of skin in an angle of 15°. If the Participant now gets goosebumps, they will produce a clear pattern in the video, taht later can be analyzed using fourier analysis.
-
 
 <H2>About the GooseCam</H2>
-<p>...</p>
+<p>The GooseCam is basicaly just a camera that records an specific area of skin. While the camera is recording, LEDs illuminate the area of skin in an angle of 15°. If the Participant now gets goosebumps, they will produce a clear pattern in the video, taht later can be analyzed using fourier analysis.</p>
 <H3>TTP communication with the goosecam</H3>
+
+
 <p>The GooseCam is controlled via TTP communication. The GooseCam device is used as server that listens to client commands (e.g. the experimental software). In the following an example python code of such a communication is shown:</p>
 
 ```{r test-python, engine='python'}
