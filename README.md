@@ -14,6 +14,7 @@
 import socket
 import time 
 
+
 def send_command(ip, command):
   try:
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
