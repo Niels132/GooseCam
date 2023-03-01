@@ -3,8 +3,12 @@
 
 <H2>Goosebumps</H2>
 
+
 <H2>About the GooseCam</H2>
 <p>The GooseCam is basicaly just a camera that records an specific area of skin. While the camera is recording, LEDs illuminate the area of skin in an angle of 15°. If the Participant now gets goosebumps, they will produce a clear pattern in the video, taht later can be analyzed using fourier analysis.</p>
+
+![info](https://user-images.githubusercontent.com/122016920/222143371-a3531713-0607-4a0e-94ce-39450d207f23.JPG)
+
 <H3>TTP communication with the goosecam</H3>
 
 
